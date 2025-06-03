@@ -1,2 +1,3 @@
 Name: Viet Thai
 Interests: Coding, Design
+Skills: software & tools
